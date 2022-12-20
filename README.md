@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tejas-087
 - 👀 I’m interested in Full stack web developement.
 - 🌱 I’m currently learning Javascript, html, css.
-- 💞️ I’m looking to collaborate on projects to improve my team eork skills.
+- 💞️ I’m looking to collaborate on projects to improve my team work skills.
 - 📫 How to reach me: Will be adding soon :)
 
 <!---
